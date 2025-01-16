@@ -33,6 +33,8 @@ python -m pip install -r requirements.txt
 ```
 or just install all dependencies one by one manually.
 
+We also provide our [checkpoint](https://drive.google.com/file/d/1HYWMpZjByz9MAnrqMWiErP2gt8jL-Fke/view?usp=sharing). If you want to test directly, please download first. Note that all experiments in the paper are done **without fine-tuning!**
+
 ## Test on LUCES dataset
 
 Download dataset from [http://www.robertomecca.com/luces.html](http://www.robertomecca.com/luces.html) and run
