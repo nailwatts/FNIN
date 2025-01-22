@@ -74,3 +74,20 @@ We sincerely thank the authors of following repositories for thieir awesome work
 - FNO: [neuraloperator](https://github.com/neuraloperator/neuraloperator)
 - WLS solver: [BiNI](https://github.com/xucao-42/bilateral_normal_integration)
 
+## Citation
+
+If you find this repository useful, please consider citing:
+
+```sh
+@misc{leng2025fninfourierneuraloperatorbased,
+      title={FNIN: A Fourier Neural Operator-based Numerical Integration Network for Surface-form-gradients}, 
+      author={Jiaqi Leng and Yakun Ju and Yuanxu Duan and Jiangnan Zhang and Qingxuan Lv and Zuxuan Wu and Hao Fan},
+      year={2025},
+      eprint={2501.11876},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2501.11876}, 
+}
+```
+
+
